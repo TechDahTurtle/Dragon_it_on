@@ -9,9 +9,8 @@
   "workspaceSettings": {
     "modid": "dragon_it_out",
     "modName": "Dragon_it_out",
-    "version": "1.0.0",
-    "author": "atwst, MCreator",
-    "websiteURL": "https://mcreator.net",
+    "version": "0.0.1",
+    "author": "Dragons and Discussions",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
     "requiredMods": [],

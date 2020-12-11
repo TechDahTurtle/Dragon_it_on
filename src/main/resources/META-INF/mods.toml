@@ -3,11 +3,11 @@ loaderVersion="[31,)"
 
 [[mods]]
 modId="dragon_it_out"
-version="1.0.0"
+version="0.0.1"
 displayName="Dragon_it_out"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
 displayURL="https://mcreator.net"
-authors="atwst, MCreator"
+authors="Dragons and Discussions"
 
 [[dependencies.dragon_it_out]]
     modId="minecraft"
