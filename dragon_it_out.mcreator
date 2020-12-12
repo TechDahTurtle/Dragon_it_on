@@ -24,6 +24,24 @@
         "eb": true,
         "ec": true
       }
+    },
+    {
+      "name": "DarkObsidianBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_obsidian_block"
+    },
+    {
+      "name": "CraftDO",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craft_do"
     }
   ],
   "variable_elements": [],
@@ -33,6 +51,7 @@
       "item.dragon_it_out.placeholderarmor_chestplate": "Placeholderarmor Body",
       "item.dragon_it_out.placeholderarmor_boots": "Placeholderarmor Boots",
       "item.dragon_it_out.placeholderarmor_helmet": "Placeholderarmor Helmet",
+      "block.dragon_it_out.dark_obsidian_block": "Dark Obsidian Block",
       "block.dragon_it_out.placeholder_holder_block": "Placeholder Holder Block",
       "item.dragon_it_out.placeholderarmor_leggings": "Placeholderarmor Leggings"
     }

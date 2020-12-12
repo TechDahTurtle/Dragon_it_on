@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dragon_it_out:blocks/dark_obsidian",
+    "up": "dragon_it_out:blocks/dark_obsidian",
+    "north": "dragon_it_out:blocks/dark_obsidian",
+    "east": "dragon_it_out:blocks/dark_obsidian",
+    "south": "dragon_it_out:blocks/dark_obsidian",
+    "west": "dragon_it_out:blocks/dark_obsidian",
+    "particle": "dragon_it_out:blocks/dark_obsidian"
+  }
+}
