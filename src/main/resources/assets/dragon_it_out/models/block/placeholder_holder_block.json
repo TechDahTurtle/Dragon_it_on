@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dragon_it_out:blocks/placeholderblock",
+    "up": "dragon_it_out:blocks/placeholderblock",
+    "north": "dragon_it_out:blocks/placeholderblock",
+    "east": "dragon_it_out:blocks/placeholderblock",
+    "south": "dragon_it_out:blocks/placeholderblock",
+    "west": "dragon_it_out:blocks/placeholderblock",
+    "particle": "dragon_it_out:blocks/placeholderblock"
+  }
+}

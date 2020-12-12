@@ -1,10 +1,41 @@
 {
   "id_map": {},
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "PlaceholderHolderBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "placeholder_holder_block"
+    },
+    {
+      "name": "Placeholderarmor",
+      "type": "armor",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "placeholderarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "item.dragon_it_out.placeholderarmor_chestplate": "Placeholderarmor Body",
+      "item.dragon_it_out.placeholderarmor_boots": "Placeholderarmor Boots",
+      "item.dragon_it_out.placeholderarmor_helmet": "Placeholderarmor Helmet",
+      "block.dragon_it_out.placeholder_holder_block": "Placeholder Holder Block",
+      "item.dragon_it_out.placeholderarmor_leggings": "Placeholderarmor Leggings"
+    }
   },
   "workspaceSettings": {
     "modid": "dragon_it_out",

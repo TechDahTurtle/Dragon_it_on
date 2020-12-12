@@ -1,1 +1,7 @@
-{}
+{
+  "item.dragon_it_out.placeholderarmor_chestplate": "Placeholderarmor Body",
+  "item.dragon_it_out.placeholderarmor_boots": "Placeholderarmor Boots",
+  "item.dragon_it_out.placeholderarmor_helmet": "Placeholderarmor Helmet",
+  "block.dragon_it_out.placeholder_holder_block": "Placeholder Holder Block",
+  "item.dragon_it_out.placeholderarmor_leggings": "Placeholderarmor Leggings"
+}
