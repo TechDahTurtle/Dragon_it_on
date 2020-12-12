@@ -1,8 +1,15 @@
 {
-  "item.dragon_it_out.placeholderarmor_chestplate": "Placeholderarmor Body",
-  "item.dragon_it_out.placeholderarmor_boots": "Placeholderarmor Boots",
-  "item.dragon_it_out.placeholderarmor_helmet": "Placeholderarmor Helmet",
+  "item.dragon_it_out.placeholder_axe": "Placeholder Axe",
+  "item.dragon_it_out.placeholder_armor_leggings": "Placeholder Leggings",
+  "block.dragon_it_out.placeholder_ore": "Placeholder Ore",
+  "item.dragon_it_out.placeholder_armor_boots": "Placeholder Boots",
+  "item.dragon_it_out.placeholder_armor_helmet": "Placeholder Helmet",
+  "item.dragon_it_out.placeholder_hoe": "Placeholder Hoe",
+  "item.dragon_it_out.placeholder_shovel": "Placeholder Shovel",
+  "block.dragon_it_out.placeholder_block": "Block of Placeholder",
+  "item.dragon_it_out.placeholder_ingot": "Placeholder",
   "block.dragon_it_out.dark_obsidian_block": "Dark Obsidian Block",
-  "block.dragon_it_out.placeholder_holder_block": "Placeholder Holder Block",
-  "item.dragon_it_out.placeholderarmor_leggings": "Placeholderarmor Leggings"
+  "item.dragon_it_out.placeholder_pickaxe": "Placeholder Pickaxe",
+  "item.dragon_it_out.placeholder_sword": "Placeholder Sword",
+  "item.dragon_it_out.placeholder_armor_chestplate": "Placeholder Chestplate"
 }
