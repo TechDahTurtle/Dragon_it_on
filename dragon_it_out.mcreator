@@ -47,33 +47,6 @@
       "registry_name": "placeholder_block"
     },
     {
-      "name": "PlaceholderOreBlockRecipe",
-      "type": "recipe",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "placeholder_ore_block_recipe"
-    },
-    {
-      "name": "PlaceholderBlockOreRecipe",
-      "type": "recipe",
-      "sortid": 9,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "placeholder_block_ore_recipe"
-    },
-    {
-      "name": "PlaceholderOreSmelting",
-      "type": "recipe",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "placeholder_ore_smelting"
-    },
-    {
       "name": "PlaceholderPickaxe",
       "type": "tool",
       "sortid": 11,
@@ -119,51 +92,6 @@
       "registry_name": "placeholder_hoe"
     },
     {
-      "name": "PlaceholderPickaxeRecipe",
-      "type": "recipe",
-      "sortid": 16,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "placeholder_pickaxe_recipe"
-    },
-    {
-      "name": "PlaceholderAxeRecipe",
-      "type": "recipe",
-      "sortid": 17,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "placeholder_axe_recipe"
-    },
-    {
-      "name": "PlaceholderSwordRecipe",
-      "type": "recipe",
-      "sortid": 18,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "placeholder_sword_recipe"
-    },
-    {
-      "name": "PlaceholderShovelRecipe",
-      "type": "recipe",
-      "sortid": 19,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "placeholder_shovel_recipe"
-    },
-    {
-      "name": "PlaceholderHoeRecipe",
-      "type": "recipe",
-      "sortid": 20,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "placeholder_hoe_recipe"
-    },
-    {
       "name": "PlaceholderArmor",
       "type": "armor",
       "sortid": 21,
@@ -177,42 +105,6 @@
         "eb": true,
         "ec": true
       }
-    },
-    {
-      "name": "PlaceholderArmorHelmetRecipe",
-      "type": "recipe",
-      "sortid": 22,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "placeholder_armor_helmet_recipe"
-    },
-    {
-      "name": "PlaceholderArmorBodyRecipe",
-      "type": "recipe",
-      "sortid": 23,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "placeholder_armor_body_recipe"
-    },
-    {
-      "name": "PlaceholderArmorLeggingsRecipe",
-      "type": "recipe",
-      "sortid": 24,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "placeholder_armor_leggings_recipe"
-    },
-    {
-      "name": "PlaceholderArmorBootsRecipe",
-      "type": "recipe",
-      "sortid": 25,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "placeholder_armor_boots_recipe"
     }
   ],
   "variable_elements": [],

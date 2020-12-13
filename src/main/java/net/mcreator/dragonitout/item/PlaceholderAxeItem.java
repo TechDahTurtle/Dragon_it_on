@@ -32,21 +32,21 @@ public class PlaceholderAxeItem extends DragonItOutModElements.ModElement {
 			}
 
 			public float getAttackDamage() {
-				return 0f;
+				return 8f;
 			}
 
 			public int getHarvestLevel() {
-				return 2;
+				return 6;
 			}
 
 			public int getEnchantability() {
-				return 14;
+				return 100;
 			}
 
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(PlaceholderIngotItem.block, (int) (1)));
 			}
-		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
+		}, 1, 1f, new Item.Properties().group(ItemGroup.TOOLS)) {
 		}.setRegistryName("placeholder_axe"));
 	}
 }

@@ -24,29 +24,29 @@ public class PlaceholderShovelItem extends DragonItOutModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new ShovelItem(new IItemTier() {
 			public int getMaxUses() {
-				return 250;
+				return 1000;
 			}
 
 			public float getEfficiency() {
-				return 6f;
+				return 10f;
 			}
 
 			public float getAttackDamage() {
-				return 0f;
+				return 8f;
 			}
 
 			public int getHarvestLevel() {
-				return 2;
+				return 6;
 			}
 
 			public int getEnchantability() {
-				return 14;
+				return 100;
 			}
 
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(PlaceholderIngotItem.block, (int) (1)));
 			}
-		}, 1, -3f, new Item.Properties().group(ItemGroup.TOOLS)) {
+		}, 1, 6f, new Item.Properties().group(ItemGroup.TOOLS)) {
 		}.setRegistryName("placeholder_shovel"));
 	}
 }

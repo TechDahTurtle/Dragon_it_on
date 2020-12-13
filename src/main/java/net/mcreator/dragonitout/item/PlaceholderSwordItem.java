@@ -24,29 +24,29 @@ public class PlaceholderSwordItem extends DragonItOutModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new SwordItem(new IItemTier() {
 			public int getMaxUses() {
-				return 250;
+				return 1000;
 			}
 
 			public float getEfficiency() {
-				return 6f;
+				return 10f;
 			}
 
 			public float getAttackDamage() {
-				return 0f;
+				return 8f;
 			}
 
 			public int getHarvestLevel() {
-				return 2;
+				return 10;
 			}
 
 			public int getEnchantability() {
-				return 14;
+				return 100;
 			}
 
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(PlaceholderIngotItem.block, (int) (1)));
 			}
-		}, 3, -3f, new Item.Properties().group(ItemGroup.COMBAT)) {
+		}, 3, 6f, new Item.Properties().group(ItemGroup.COMBAT)) {
 		}.setRegistryName("placeholder_sword"));
 	}
 }
