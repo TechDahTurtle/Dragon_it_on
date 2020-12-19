@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dragon_it_out:blocks/dirt_dark",
+    "up": "dragon_it_out:blocks/grass_block_top_dark",
+    "north": "dragon_it_out:blocks/grass_block_side_dark",
+    "east": "dragon_it_out:blocks/grass_block_side_dark",
+    "south": "dragon_it_out:blocks/grass_block_side_dark",
+    "west": "dragon_it_out:blocks/grass_block_side_dark",
+    "particle": "dragon_it_out:blocks/dirt_dark"
+  }
+}

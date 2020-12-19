@@ -105,6 +105,42 @@
         "eb": true,
         "ec": true
       }
+    },
+    {
+      "name": "DarkGrass",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_grass"
+    },
+    {
+      "name": "DarkStone",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_stone"
+    },
+    {
+      "name": "ColdIronOre",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cold_iron_ore"
+    },
+    {
+      "name": "DarkDim",
+      "type": "dimension",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dark_dim"
     }
   ],
   "variable_elements": [],
@@ -116,6 +152,8 @@
       "block.dragon_it_out.placeholder_ore": "Placeholder Ore",
       "item.dragon_it_out.placeholder_armor_boots": "Placeholder Boots",
       "item.dragon_it_out.placeholder_armor_helmet": "Placeholder Helmet",
+      "block.dragon_it_out.dark_stone": "Dark Stone",
+      "block.dragon_it_out.cold_iron_ore": "Cold Iron Ore",
       "item.dragon_it_out.placeholder_hoe": "Placeholder Hoe",
       "item.dragon_it_out.placeholder_shovel": "Placeholder Shovel",
       "block.dragon_it_out.placeholder_block": "Block of Placeholder",
@@ -123,7 +161,9 @@
       "block.dragon_it_out.dark_obsidian_block": "Dark Obsidian Block",
       "item.dragon_it_out.placeholder_pickaxe": "Placeholder Pickaxe",
       "item.dragon_it_out.placeholder_sword": "Placeholder Sword",
-      "item.dragon_it_out.placeholder_armor_chestplate": "Placeholder Chestplate"
+      "item.dragon_it_out.placeholder_armor_chestplate": "Placeholder Chestplate",
+      "block.dragon_it_out.dark_grass": "Dark Grass",
+      "item.dragon_it_out.dark_dim": "DM_Me"
     }
   },
   "workspaceSettings": {

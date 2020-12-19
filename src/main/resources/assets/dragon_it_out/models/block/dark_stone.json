@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dragon_it_out:blocks/stone_dark",
+    "up": "dragon_it_out:blocks/stone_dark",
+    "north": "dragon_it_out:blocks/stone_dark",
+    "east": "dragon_it_out:blocks/stone_dark",
+    "south": "dragon_it_out:blocks/stone_dark",
+    "west": "dragon_it_out:blocks/stone_dark",
+    "particle": "dragon_it_out:blocks/stone_dark"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "dragon_it_out:block/dark_dim_portal_ew"
+    },
+    "axis=x": {
+      "model": "dragon_it_out:block/dark_dim_portal_ns"
+    }
+  }
+}

@@ -32,7 +32,7 @@ public class PlaceholderHoeItem extends DragonItOutModElements.ModElement {
 			}
 
 			public float getAttackDamage() {
-				return 8f;
+				return 98f;
 			}
 
 			public int getHarvestLevel() {
@@ -46,7 +46,7 @@ public class PlaceholderHoeItem extends DragonItOutModElements.ModElement {
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(PlaceholderIngotItem.block, (int) (1)));
 			}
-		}, 6f, new Item.Properties().group(ItemGroup.TOOLS)) {
+		}, 6f, new Item.Properties().group(ItemGroup.COMBAT)) {
 		}.setRegistryName("placeholder_hoe"));
 	}
 }

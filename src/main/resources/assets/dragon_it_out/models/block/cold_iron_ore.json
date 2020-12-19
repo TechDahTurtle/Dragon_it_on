@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "dragon_it_out:blocks/cold_iron_nether",
+    "up": "dragon_it_out:blocks/cold_iron_nether",
+    "north": "dragon_it_out:blocks/cold_iron_nether",
+    "east": "dragon_it_out:blocks/cold_iron_nether",
+    "south": "dragon_it_out:blocks/cold_iron_nether",
+    "west": "dragon_it_out:blocks/cold_iron_nether",
+    "particle": "dragon_it_out:blocks/cold_iron_nether"
+  }
+}

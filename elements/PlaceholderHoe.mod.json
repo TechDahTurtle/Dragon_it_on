@@ -8,14 +8,14 @@
     "name": "Placeholder Hoe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "COMBAT"
     },
     "toolType": "Hoe",
     "harvestLevel": 10,
     "efficiency": 10.0,
     "attackSpeed": 10.0,
     "enchantability": 100,
-    "damageVsEntity": 10.0,
+    "damageVsEntity": 100.0,
     "usageCount": 1000,
     "blocksAffected": [],
     "hasGlow": false,
